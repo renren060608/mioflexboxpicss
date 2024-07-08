@@ -1,0 +1,43 @@
+html,body{
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: wheat;
+
+
+}
+
+header{
+    background-color: tomato;
+    text-align: center;
+    padding: 10px;
+
+
+
+}
+
+.flex-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    border: 5px solid lightblue;
+    margin: 50px;
+    border: 50px;
+    
+
+    
+
+    
+}
+
+.image-item, img{
+ border: black 5px solid;
+ height: 200px;
+ width: 300px;
+ margin-left: 3px;
+ margin-right: 3px;
+ margin-bottom:0 ;
+ margin-top: 0;
+ border-radius: 10px;
+}
+
+
